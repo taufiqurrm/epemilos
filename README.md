@@ -12,6 +12,7 @@ Responsive Website Using Html, Css and CI
 4. Kelola Data Laporan
 5. Kelola Daftar Hadir
 
-<!-- Don't forget to join the channel for more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode) -->
+
+Sumber : https://github.com/fpls-software/pilketos.git
 
 ![Preview](/preview.png)
