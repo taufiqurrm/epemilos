@@ -25,7 +25,7 @@ foreach ($idsekolah as $load) {
 <script src="<?php echo base_url(); ?>asset/vendor/jquery/jquery-3.4.1.js"></script>
 <script src="<?php echo base_url(); ?>asset/vendor/jquery/bootstrap-3.4.1.js"></script>
 <script src="<?php echo base_url(); ?>asset/vendor/datatables/datatables.min.js"></script>
-<!-- <script src="<?php echo base_url(); ?>asset/vendor/responsive-tables/responsive-tables.js"></script> -->
+<script src="<?php echo base_url(); ?>asset/vendor/responsive-tables/responsive-tables.js"></script>
 <script>
     $(document).ready(function() {
         $('#myTable').DataTable();

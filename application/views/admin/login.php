@@ -74,6 +74,6 @@
         <br>
         <br>
         <footer style="position: fixed; left: 0; bottom: 0; width: 100%; background-color: #275555ff;  color: white;  text-align: center; padding:5px;">
-            <p style="padding-top:10px; text-align:center;"><b>2023 &copy; E-PEMILOS</b></p>
+        <p style="padding-top:10px; text-align:center;"><b><?php echo $this->config->item('tahun_kegiatan') . " &copy; " . $this->config->item('nama_sekolah'); ?></b></p>
         </footer>
     </div>

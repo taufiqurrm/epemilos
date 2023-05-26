@@ -1,7 +1,7 @@
 <nav class="navbar navbar-inverse">
 	<div class="container">
 		<div class="navbar-header">
-			<a class="navbar-brand" href="#"><span class="glyphicon glyphicon-home"></span>&nbsp;<b>E-PEMILOS</b></a>
+			<a class="navbar-brand" href="#"><span class="glyphicon glyphicon-send"></span>&nbsp;<b>E-PEMILOS</b></a>
 		</div>
 	</div>
 </nav>
@@ -77,7 +77,7 @@
 		</div>
 
 		<footer style="position: fixed; left: 0; bottom: 0; width: 100%; background-color: #275555ff;  color: white;  text-align: center; padding:5px;">
-			<p style="padding-top:10px; text-align:center;"><b><?php echo $this->config->item('tahun_kegiatan') . " &copy; " . $this->config->item('nama_aplikasi'); ?></b></p>
+			<p style="padding-top:10px; text-align:center;"><b><?php echo $this->config->item('tahun_kegiatan') . " &copy; " . $this->config->item('nama_sekolah'); ?></b></p>
 		</footer>
 		<br><br> <br> <br>
 	</div>
